@@ -1,5 +1,4 @@
-# This repository contains the data processing pipeline and code for generating figures used in the article "Widespread Co-expression of Expanded Odorant Receptors in Honeybee workers![image](https://github.com/nieyage/honeybee_ORN/assets/55966709/ebf5fd9a-14d0-4c35-94d0-e84396a6a6e0)
-".
+# This repository contains the data processing pipeline and code for generating figures used in the article "Widespread Co-expression of Expanded Odorant Receptors in Honeybee workers"
 ## chemereceptor 
 
 Code used to identify OR, IG, and GR genes via domain scanning in the `Chemoreceptor/` directory. 
