@@ -20,7 +20,7 @@ Key components include:
 - Classification of OR expression patterns (singular, co-expression with single/multiple active promoters)
 - Genomic architecture and regulatory element evolution analysis
 - Reproduction scripts for all manuscript figures
-## chemereceptor 
+## Chemereceptor 
 Code used to identify OR, IG, and GR genes via domain scanning in the `Chemoreceptor/` directory. 
 
 ## Data Processing Pipeline
